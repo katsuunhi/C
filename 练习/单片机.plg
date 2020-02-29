@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 单片机 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\YF\AppData\Local\Temp\RSP9EB8.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/单片机.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\YF\Desktop\C\练习\单片机.c"
+]
+Creating command line "cl.exe @C:\Users\YF\AppData\Local\Temp\RSP9EB8.tmp" 
+<h3>Output Window</h3>
+Compiling...
+单片机.c
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'DB' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'FFH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'E3H' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'DDH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'BEH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'BFH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'DFH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'EFH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'F7H' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'FBH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'FDH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2065: 'FEH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(4) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2065: 'C7H' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2065: 'BBH' : undeclared identifier
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2099: initializer is not a constant
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2059: syntax error : 'bad suffix on number'
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2061: syntax error : identifier 'DH'
+c:\users\yf\desktop\c\练习\单片机.c(5) : error C2059: syntax error : 'bad suffix on number'
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+单片机.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

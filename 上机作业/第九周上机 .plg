@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 第九周上机  - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\YF\AppData\Local\Temp\RSPB60B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/第九周上机 .pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\YF\Desktop\C\上机作业\第九周上机 .c"
+]
+Creating command line "cl.exe @C:\Users\YF\AppData\Local\Temp\RSPB60B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+第九周上机 .c
+c:\program files (x86)\microsoft visual studio\vc98\include\winnt.h(5441) : error C2143: syntax error : missing ':' before 'constant'
+c:\program files (x86)\microsoft visual studio\vc98\include\winnt.h(5441) : warning C4015: '.alignment member.' : type of bit field must be integral
+c:\users\yf\desktop\c\上机作业\第九周上机 .c(135) : warning C4098: 'main' : 'void' function returning a value
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+第九周上机 .obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

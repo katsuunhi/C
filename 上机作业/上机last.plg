@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 上机last - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\YF\AppData\Local\Temp\RSPF87B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/上机last.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\YF\Desktop\计算机资料\C\上机作业\上机last.c"
+]
+Creating command line "cl.exe @C:\Users\YF\AppData\Local\Temp\RSPF87B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+上机last.c
+
+
+
+<h3>Results</h3>
+上机last.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
